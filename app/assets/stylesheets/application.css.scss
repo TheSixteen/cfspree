@@ -43,7 +43,12 @@ a:focus {
     color: #eb3812;
 }
 
-h1,
+h1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 70px;
+
+}
+
 h2,
 h3,
 h4,
@@ -232,8 +237,6 @@ header .header-content {
 header .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 0;
-    text-transform: uppercase;
-    font-weight: 700;
 }
 
 header .header-content .header-content-inner hr {
