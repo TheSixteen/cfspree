@@ -32,6 +32,7 @@ hr.light {
 }
 
 a {
+    font-family: 'Dosis', sans-serif;
     color: #f05f40;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -58,8 +59,9 @@ h6 {
 }
 
 p {
+    font-family: 'Dosis', sans-serif;
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 25px;
     line-height: 1.5;
 }
 
@@ -141,7 +143,7 @@ input[type=text]:focus {
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 700;
     color: #222;
 }
@@ -245,7 +247,6 @@ header .header-content .header-content-inner hr {
 
 header .header-content .header-content-inner p {
     margin-bottom: 50px;
-    font-size: 16px;
     font-weight: 300;
     color: rgba(255,255,255,.7);
 }
@@ -274,7 +275,7 @@ header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
-        font-size: 18px;
+        font-size: 22px;
     }
 }
 
